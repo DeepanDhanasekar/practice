@@ -10,5 +10,6 @@ public static void main(String[] args) {
 	WebDriverManager.chromedriver().setup();
 	WebDriver driver=new ChromeDriver();
 	driver.get("html://demo.automationtestini.in/Register.html");
+	System.out.println("fghjkltxfchjbkl");
 }
 }
